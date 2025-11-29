@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1764433994 source:d:\febri\kuliah\semseter 3 (2025-2026)\struktur data\tubes\sistem-katalog-produk-sederhana\tubes\tree.cpp
+	"tree.h"
+	<cstdio>
+
+1764433886 d:\febri\kuliah\semseter 3 (2025-2026)\struktur data\tubes\sistem-katalog-produk-sederhana\tubes\tree.h
+	<iostream>
+	<string>
+
+1764433875 source:d:\febri\kuliah\semseter 3 (2025-2026)\struktur data\tubes\sistem-katalog-produk-sederhana\tubes\main.cpp
+	"tree.h"
+
